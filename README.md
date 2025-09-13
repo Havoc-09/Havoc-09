@@ -40,9 +40,9 @@
 
 💻 Learning **Python** for scripting security tools & automation  
 
-🌐 Exploring **Web Development** (HTML, CSS, JS) as a side interest  
+🌐 Exploring **Web Development** as a side interest  
 
-☕ Hardcore **coffee lover** — my brain literally debugs better with caffeine  
+☕ Hardcore **COFFEE LOVER** — my brain literally debugs better with caffeine  
 
 🚀 Believer in *“Projects > Theory”* — I learn by building  
 
