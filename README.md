@@ -34,7 +34,7 @@
 
 ## 🌟 About Me  
 
-🎓 B.Tech in Computer Engineering @ Atmiya University, Rajkot (Batch 2027)  
+🎓 B.Tech in Computer Engineering @ Atmiya University, Rajkot 
 
 🛡 Passionate about **Cyber Security** — exploring ethical hacking, penetration testing, and digital forensics  
 
