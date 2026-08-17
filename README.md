@@ -117,7 +117,7 @@ A Windows Service & Process Monitoring Agent. Keeps an eye on what's running and
 
 <td align="center" width="25%">
 <br/>
-<img src="https://img.shields.io/badge/IN%20PROGRESS-f59e0b?style=flat-square" /><br/><br/>
+<img src="https://img.shields.io/badge/COMPLETE-22c55e?style=flat-square" /><br/><br/>
 
 **🛡️ SecureWatch**
 
